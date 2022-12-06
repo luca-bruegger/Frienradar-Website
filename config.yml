@@ -2,7 +2,7 @@ baseURL: 'https://frienradar.com'
 languageCode: 'en-us'
 defaultContentLanguage: 'en'
 title: 'Frienradar'
-theme: 'PaperMod'
+theme: 'PaperModX'
 
 languages:
   en:
@@ -11,21 +11,26 @@ languages:
     profileMode:
       enabled: true
       subtitle: "Radar for people around you"
-      imageUrl: "/icon.png" # optional
+      imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
       buttons:
-        - name: "Herunterladen iOS"
-        - name: "Herunterladen Android"
+        - name: "Download iOS"
+        - name: "Download Android"
     menu:
       main:
         - name: Functionality
           url: how-does-it-work
           weight: 30
+      footer:
         - name: Terms & Conditions
           url: terms-conditions
           weight: 5
+        - name: Imprint
+          url: imprint
+          weight: 5
+
   de:
     languageName: 'Deutsch'
     title: 'Frienradar'
@@ -33,7 +38,7 @@ languages:
     profileMode:
       enabled: true
       subtitle: "Radar für Personen in deiner Umgebung"
-      imageUrl: "/icon.png" # optional
+      imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
@@ -45,8 +50,12 @@ languages:
         - name: Funktionalität
           url: how-does-it-work
           weight: 30
+      footer:
         - name: Nutzungsbedingungen
           url: terms-conditions
+          weight: 5
+        - name: Impressum
+          url: imprint
           weight: 5
   fr:
     languageName: 'Français'
@@ -54,7 +63,7 @@ languages:
     profileMode:
       enabled: true
       subtitle: "Radar pour les personnes dans votre région"
-      imageUrl: "/icon.png" # optional
+      imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
@@ -66,14 +75,20 @@ languages:
         - name: Fonctionnalité
           url: how-does-it-work
           weight: 30
-        - name: Termes et conditions
+      footer:
+        - name: Terms et Conditions
           url: terms-conditions
+          weight: 5
+        - name: Imprint
+          url: imprint
           weight: 5
 
 params:
   env: 'production'
   enableRobotsTXT: true
-  label:
-    icon: '/icon.png'
-  assets:
-    favicon: "/favicon.png"
+  TocSide: 'left'
+  logo:
+    text: 'Frienradar'
+    icon: 'images/icon.png'
+    iconHeight: 32
+

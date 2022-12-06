@@ -1,0 +1,16 @@
+<footer class="footer">
+    {{- range site.Menus.footer }}
+    {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absURL }}
+    {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+        <span class="footer-link"><a href="{{ $menu_item_url }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
+        {{- if $is_search -}}data-no-instant{{- end -}}
+        {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}
+        {{- if .Params.External }} target="_blank" {{- end }}
+        >
+        {{- .Pre }}
+        {{- .Name -}}
+        {{ .Post -}}
+        {{- if .Params.External }}<span class="external-link">{{ safeHTML (index $.Site.Data.svg "external-link") }}</span>{{- end }}
+        </a></span>
+    {{- end }}
+</footer>
