@@ -1,0 +1,79 @@
+baseURL: 'https://frienradar.com'
+languageCode: 'en-us'
+defaultContentLanguage: 'en'
+title: 'Frienradar'
+theme: 'PaperMod'
+
+languages:
+  en:
+    languageName: 'English'
+    weight: 1
+    profileMode:
+      enabled: true
+      subtitle: "Radar for people around you"
+      imageUrl: "/icon.png" # optional
+      imageTitle: "Frienradar App" # optional
+      imageWidth: 220 # custom size
+      imageHeight: 220 # custom size
+      buttons:
+        - name: "Herunterladen iOS"
+        - name: "Herunterladen Android"
+    menu:
+      main:
+        - name: Functionality
+          url: how-does-it-work
+          weight: 30
+        - name: Terms & Conditions
+          url: terms-conditions
+          weight: 5
+  de:
+    languageName: 'Deutsch'
+    title: 'Frienradar'
+    weight: 2
+    profileMode:
+      enabled: true
+      subtitle: "Radar für Personen in deiner Umgebung"
+      imageUrl: "/icon.png" # optional
+      imageTitle: "Frienradar App" # optional
+      imageWidth: 220 # custom size
+      imageHeight: 220 # custom size
+      buttons:
+        - name: "Herunterladen iOS"
+        - name: "Herunterladen Android"
+    menu:
+      main:
+        - name: Funktionalität
+          url: how-does-it-work
+          weight: 30
+        - name: Nutzungsbedingungen
+          url: terms-conditions
+          weight: 5
+  fr:
+    languageName: 'Français'
+    weight: 2
+    profileMode:
+      enabled: true
+      subtitle: "Radar pour les personnes dans votre région"
+      imageUrl: "/icon.png" # optional
+      imageTitle: "Frienradar App" # optional
+      imageWidth: 220 # custom size
+      imageHeight: 220 # custom size
+      buttons:
+        - name: "Herunterladen iOS"
+        - name: "Herunterladen Android"
+    menu:
+      main:
+        - name: Fonctionnalité
+          url: how-does-it-work
+          weight: 30
+        - name: Termes et conditions
+          url: terms-conditions
+          weight: 5
+
+params:
+  env: 'production'
+  enableRobotsTXT: true
+  label:
+    icon: '/icon.png'
+  assets:
+    favicon: "/favicon.png"
