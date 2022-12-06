@@ -89,12 +89,12 @@
             {{- end }}
             {{- end }}
             <img src="{{ $img.Permalink }}" alt="logo" aria-label="logo"
-                 height="{{- site.Params.logo.iconHeight | default " 30" -}}" width="{{- site.Params.logo.iconWidth |
-            default "30" -}}">
+                 height="{{- site.Params.logo.iconHeight | default -}}" width="{{- site.Params.logo.iconWidth |
+            default -}}">
             {{- else }}
             <img src="{{ $img.Permalink }}" alt="logo" aria-label="logo"
-                 height="{{- site.Params.logo.iconHeight | default " 30" -}}" width="{{- site.Params.logo.iconWidth |
-            default "30" -}}">
+                 height="{{- site.Params.logo.iconHeight | default -}}" width="{{- site.Params.logo.iconWidth |
+            default }}">
             {{- end -}}
             {{- end -}}
             {{- $label_text -}}
