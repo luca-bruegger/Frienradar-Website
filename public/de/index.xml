@@ -4,6 +4,10 @@
     <title>Frienradar</title>
     <link>https://frienradar.com/de/</link>
     <description>Recent content on Frienradar</description>
+    <image>
+      <url>https://frienradar.com/images/icon.png</url>
+      <link>https://frienradar.com/images/icon.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://frienradar.com/de/index.xml" rel="self" type="application/rss+xml" />
   </channel>

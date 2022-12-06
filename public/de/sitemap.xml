@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frienradar.com/de/imprint/</loc>
+    <lastmod>2022-12-06T08:09:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://frienradar.com/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://frienradar.com/fr/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://frienradar.com/de/imprint/"
+                />
+  </url><url>
+    <loc>https://frienradar.com/de/terms-conditions/</loc>
+    <lastmod>2022-12-06T08:09:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://frienradar.com/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://frienradar.com/fr/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://frienradar.com/de/terms-conditions/"
+                />
+  </url><url>
     <loc>https://frienradar.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +87,23 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://frienradar.com/de/tags/"
+                />
+  </url><url>
+    <loc>https://frienradar.com/de/how-does-it-work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://frienradar.com/how-does-it-work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://frienradar.com/fr/how-does-it-work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://frienradar.com/de/how-does-it-work/"
                 />
   </url>
 </urlset>
