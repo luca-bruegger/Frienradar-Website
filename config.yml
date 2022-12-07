@@ -10,14 +10,14 @@ languages:
     weight: 1
     profileMode:
       enabled: true
-      subtitle: "Radar for people around you"
+      subtitle: "Radar for people around you. Available soon."
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-      buttons:
-        - name: "Download iOS"
-        - name: "Download Android"
+#      buttons:
+#        - name: "Download iOS"
+#        - name: "Download Android"
     menu:
       main:
         - name: Functionality
@@ -37,14 +37,14 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Radar für Personen in deiner Umgebung"
+      subtitle: "Radar für Personen in deiner Umgebung. Demnächst verfügbar."
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-      buttons:
-        - name: "Herunterladen iOS"
-        - name: "Herunterladen Android"
+#      buttons:
+#        - name: "Herunterladen iOS"
+#        - name: "Herunterladen Android"
     menu:
       main:
         - name: Funktionalität
@@ -62,14 +62,14 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Radar pour les personnes dans votre région"
+      subtitle: "Radar pour les personnes dans votre région. Disponible prochainement."
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-      buttons:
-        - name: "Herunterladen iOS"
-        - name: "Herunterladen Android"
+#      buttons:
+#        - name: "Herunterladen iOS"
+#        - name: "Herunterladen Android"
     menu:
       main:
         - name: Fonctionnalité
