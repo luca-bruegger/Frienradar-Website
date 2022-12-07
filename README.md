@@ -1,5 +1,5 @@
 # Frienradar-Website
-Official Website of the mobile application **Frienradar**.
+Official Website of the mobile application [**Frienradar**](https://frienradar.com). Available soon.
 
 ## Gettin' started
 
