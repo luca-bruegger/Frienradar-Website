@@ -15,9 +15,6 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-#      buttons:
-#        - name: "Download iOS"
-#        - name: "Download Android"
     menu:
       main:
         - name: Functionality
@@ -42,9 +39,6 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-#      buttons:
-#        - name: "Herunterladen iOS"
-#        - name: "Herunterladen Android"
     menu:
       main:
         - name: Funktionalität
@@ -67,9 +61,6 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-#      buttons:
-#        - name: "Herunterladen iOS"
-#        - name: "Herunterladen Android"
     menu:
       main:
         - name: Fonctionnalité
