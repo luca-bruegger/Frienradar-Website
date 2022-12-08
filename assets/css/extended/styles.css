@@ -2,23 +2,6 @@
     border-radius: 45px;
 }
 
-.footer:first-of-type {
-    padding-bottom: 0 !important;
-    padding-top: 20px !important;
-}
-
-.footer:last-of-type {
-    padding-top: 0 !important;
-}
-
-.footer-link {
-    display: inline-block;
-}
-
-.footer-link:not(:first-of-type) {
-    margin-left: 1em;
-}
-
 .lang-switch ul {
     display: inline-flex;
 }
@@ -45,4 +28,16 @@
 
 .nav {
     line-height: var(--header-height);
+}
+
+.footer {
+    padding: 0px;
+}
+
+.footer-link {
+    display: inline-block;
+}
+
+.footer-link:not(:first-of-type) {
+    margin-left: 1em;
 }

@@ -29,6 +29,9 @@ languages:
         - name: Imprint
           url: imprint
           weight: 5
+        - name: Privacy
+          url: privacy
+          weight: 5
 
   de:
     languageName: 'Deutsch'
@@ -53,6 +56,9 @@ languages:
         - name: Impressum
           url: imprint
           weight: 5
+        - name: Datenschutz
+          url: privacy
+          weight: 5
   fr:
     languageName: 'Français'
     weight: 2
@@ -74,6 +80,9 @@ languages:
           weight: 5
         - name: Imprint
           url: imprint
+          weight: 5
+        - name: Protection des données
+          url: privacy
           weight: 5
 
 params:
