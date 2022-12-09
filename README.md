@@ -6,7 +6,7 @@ Official Website of the mobile application [**Frienradar**](https://frienradar.c
 ## Gettin' started
 
 ```
-$ hugo -D
+$ hugo server
 ```
 
 ### Copyright 
