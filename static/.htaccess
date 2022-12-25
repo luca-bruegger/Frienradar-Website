@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} www.frienradar.com
+RewriteRule (.*) https://frienradar.com/$1 [R=301,L]
