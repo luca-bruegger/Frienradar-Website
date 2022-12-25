@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frienradar.com/de/privacy/</loc>
+    <lastmod>2022-12-06T08:09:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://frienradar.com/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://frienradar.com/fr/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://frienradar.com/de/privacy/"
+                />
+  </url><url>
     <loc>https://frienradar.com/de/imprint/</loc>
     <lastmod>2022-12-06T08:09:27+01:00</lastmod>
     <xhtml:link

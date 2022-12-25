@@ -1,5 +1,5 @@
 RewriteEngine on
 RewriteCond %{HTTPS} off
-RewriteRule (.*) https://frienradar.com/$1 [R=301,L]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 ErrorDocument 404 /404
