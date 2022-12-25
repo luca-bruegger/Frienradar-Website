@@ -1,7 +1,7 @@
 baseURL: 'https://frienradar.com'
 languageCode: 'en-us'
 defaultContentLanguage: 'en'
-title: 'Frienradar'
+title: 'Frienradar | Radar for nearby friends'
 theme: 'PaperModX'
 googleAnalytics: "G-DLJSYMN0PJ"
 enableRobotsTXT: true
@@ -35,7 +35,7 @@ languages:
 
   de:
     languageName: 'Deutsch'
-    title: 'Frienradar'
+    title: 'Frienradar | Radar für Personen in deiner Umgebung.'
     weight: 2
     profileMode:
       enabled: true
@@ -61,6 +61,7 @@ languages:
           weight: 5
   fr:
     languageName: 'Français'
+    title: 'Frienradar | Radar pour personnes autour de vous.'
     weight: 2
     profileMode:
       enabled: true
