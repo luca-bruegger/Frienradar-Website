@@ -17,6 +17,9 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
+      buttons:
+        - name: 🚀 Try beta
+          url: https://beta.frienradar.com
     menu:
       main:
         - name: Functionality
@@ -44,6 +47,9 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
+      buttons:
+        - name: 🚀 Beta testen
+          url: https://beta.frienradar.com
     menu:
       main:
         - name: Funktionalität
@@ -71,6 +77,9 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
+      buttons:
+        - name: 🚀 Tester la bêta
+          url: https://beta.frienradar.com
     menu:
       main:
         - name: Fonctionnalité
@@ -94,4 +103,3 @@ params:
     text: 'Frienradar'
     icon: 'images/icon.png'
     iconHeight: 32
-
