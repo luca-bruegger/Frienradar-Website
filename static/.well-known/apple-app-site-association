@@ -1,13 +1,17 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "D2YRRKVKTS.ch.lucabruegger.frienradar",
-				"paths": ["*"]
-			}
-		]
-	},
+  "applinks": {
+   "apps": [],
+   "details": 
+     [
+       {
+	  "appID": "D2YRRKVKTS.ch.lucabruegger.frienradar",
+	  "paths": [
+	    "/additional-login-data",
+	    "/reset-password"
+	  ]
+	}
+      ]
+  },
   "webcredentials": {
     "apps": [
       "D2YRRKVKTS.ch.lucabruegger.frienradar"
