@@ -18,7 +18,7 @@ languages:
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
       buttons:
-        - name: 🚀 Try beta
+        - name: 🚀 Try
           url: https://beta.frienradar.com
     menu:
       main:
