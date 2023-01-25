@@ -20,6 +20,8 @@ languages:
       buttons:
         - name: 🚀 Try beta
           url: https://beta.frienradar.com
+        - name: TestFlight iOS
+          url: https://testflight.apple.com/join/5LvP96ZA
     menu:
       main:
         - name: Functionality
@@ -50,6 +52,8 @@ languages:
       buttons:
         - name: 🚀 Beta testen
           url: https://beta.frienradar.com
+        - name: TestFlight iOS
+          url: https://testflight.apple.com/join/5LvP96ZA
     menu:
       main:
         - name: Funktionalität
@@ -80,6 +84,8 @@ languages:
       buttons:
         - name: 🚀 Tester la bêta
           url: https://beta.frienradar.com
+        - name: TestFlight iOS
+          url: https://testflight.apple.com/join/5LvP96ZA
     menu:
       main:
         - name: Fonctionnalité
