@@ -1,5 +1,5 @@
 ---
-title: "How Does It Work"
+title: "How does it work"
 draft: false
 ---
 

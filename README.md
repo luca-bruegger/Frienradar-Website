@@ -3,7 +3,7 @@
 
 Official Website of the mobile application [**Frienradar**](https://frienradar.com). Available soon.
 
-## Gettin' started
+## Getting started
 
 ```
 $ hugo server

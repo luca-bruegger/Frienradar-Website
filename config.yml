@@ -17,11 +17,6 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-      buttons:
-        - name: 🚀 Try beta
-          url: https://beta.frienradar.com
-        - name: TestFlight iOS
-          url: https://testflight.apple.com/join/5LvP96ZA
     menu:
       main:
         - name: Functionality
@@ -49,11 +44,6 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-      buttons:
-        - name: 🚀 Beta testen
-          url: https://beta.frienradar.com
-        - name: TestFlight iOS
-          url: https://testflight.apple.com/join/5LvP96ZA
     menu:
       main:
         - name: Funktionalität
@@ -81,11 +71,7 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
-      buttons:
-        - name: 🚀 Tester la bêta
-          url: https://beta.frienradar.com
-        - name: TestFlight iOS
-          url: https://testflight.apple.com/join/5LvP96ZA
+
     menu:
       main:
         - name: Fonctionnalité
