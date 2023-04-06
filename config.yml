@@ -12,7 +12,7 @@ languages:
     weight: 1
     profileMode:
       enabled: true
-      subtitle: "Available soon."
+      subtitle: "Available at 5/15/23"
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
@@ -39,7 +39,7 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Demnächst verfügbar."
+      subtitle: "Verfügbar ab 15.5.23"
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
@@ -62,7 +62,7 @@ languages:
   fr:
     languageName: 'Français'
     title: 'Frienradar | Radar pour personnes autour de vous.'
-    subtitle: "Bientôt disponible."
+    subtitle: "Disponible de 15.5.23"
     weight: 2
     profileMode:
       enabled: true
