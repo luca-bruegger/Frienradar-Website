@@ -17,11 +17,16 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
+      buttons:
+        - name: Merchandise 🚀
+          url: "https://www.teepublic.com/user/frienradar-app"
+
+
     menu:
-      main:
-        - name: Functionality
-          url: how-does-it-work
-          weight: 30
+#      main:
+#        - name: Functionality
+#          url: how-does-it-work
+#          weight: 30
       footer:
         - name: Terms & Conditions
           url: terms-conditions
@@ -44,11 +49,15 @@ languages:
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
+      buttons:
+        - name: Merchandise 🚀
+          url: "https://www.teepublic.com/user/frienradar-app"
+
     menu:
-      main:
-        - name: Funktionalität
-          url: how-does-it-work
-          weight: 30
+#      main:
+#        - name: Funktionalität
+#          url: how-does-it-work
+#          weight: 30
       footer:
         - name: Nutzungsbedingungen
           url: terms-conditions
@@ -66,11 +75,14 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Radar pour les personnes dans votre région. Disponible prochainement."
+      subtitle: "Disponible à partir du 15.5.23"
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
+      buttons:
+        - name: Merchandise 🚀
+          url: "https://www.teepublic.com/user/frienradar-app"
 
     menu:
       main:
