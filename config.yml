@@ -12,21 +12,22 @@ languages:
     weight: 1
     profileMode:
       enabled: true
-      subtitle: "Available at 5/15/23"
+      subtitle: "Available from this week"
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
       buttons:
-        - name: Merchandise 🚀
-          url: "https://www.teepublic.com/user/frienradar-app"
 
 
     menu:
-#      main:
-#        - name: Functionality
-#          url: how-does-it-work
-#          weight: 30
+      main:
+        - name: Functionality
+          url: how-does-it-work
+          weight: 30
+        - name: Merch 👕
+          url: "https://www.teepublic.com/user/frienradar-app"
+          weight: 50
       footer:
         - name: Terms & Conditions
           url: terms-conditions
@@ -44,20 +45,21 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Verfügbar ab 15.5.23"
+      subtitle: "Verfügbar ab dieser Woche"
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
       buttons:
-        - name: Merchandise 🚀
-          url: "https://www.teepublic.com/user/frienradar-app"
 
     menu:
-#      main:
-#        - name: Funktionalität
-#          url: how-does-it-work
-#          weight: 30
+      main:
+        - name: Funktionalität
+          url: how-does-it-work
+          weight: 30
+        - name: Merch 👕
+          url: "https://www.teepublic.com/user/frienradar-app"
+          weight: 50
       footer:
         - name: Nutzungsbedingungen
           url: terms-conditions
@@ -75,20 +77,21 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Disponible à partir du 15.5.23"
+      subtitle: "Disponible à partir de cette semaine"
       imageUrl: "images/icon.png" # optional
       imageTitle: "Frienradar App" # optional
       imageWidth: 220 # custom size
       imageHeight: 220 # custom size
       buttons:
-        - name: Merchandise 🚀
-          url: "https://www.teepublic.com/user/frienradar-app"
 
     menu:
       main:
         - name: Fonctionnalité
           url: how-does-it-work
           weight: 30
+        - name: Merchandise 👕
+          url: "https://www.teepublic.com/user/frienradar-app"
+          weight: 50
       footer:
         - name: Terms et Conditions
           url: terms-conditions
