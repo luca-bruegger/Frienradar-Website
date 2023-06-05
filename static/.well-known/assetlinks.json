@@ -1,5 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "ch.lucabruegger.frienradar",
-               "sha256_cert_fingerprints": ["AE:25:C7:00:E2:CA:D2:8A:4A:87:06:20:C4:CC:39:83:6F:6C:81:D4:AE:CB:0A:FC:E3:18:D3:8F:B3:D2:A0:52"] }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+      "namespace": "android_app",
+      "package_name": "ch.lucabruegger.frienradar",
+      "sha256_cert_fingerprints": [
+        "AE:25:C7:00:E2:CA:D2:8A:4A:87:06:20:C4:CC:39:83:6F:6C:81:D4:AE:CB:0A:FC:E3:18:D3:8F:B3:D2:A0:52",
+        "D1:BC:90:00:B3:51:99:81:00:D7:A6:28:25:B4:EB:57:46:72:BF:0B:1D:CF:D9:CC:D9:AF:6C:B2:5A:80:18:3C"
+      ]
+    }
+  }
+]
